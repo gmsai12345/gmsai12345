@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmsai12345&label=Profile%20views&color=0e75b6&style=flat" alt="gmsai12345" /> </p>
 
-- 🌱 I’m currently learning **NestJS, SpringBoot, Spring**
+- 🌱 I’m currently learning **NestJS, SpringBoot, Spring, Go, Gin Framework**
 
 - 💬 Ask me about **React, Expressjs, Nodejs, Nestjs, NextJs**
 
